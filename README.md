@@ -54,3 +54,25 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
+
+## Installation Instruction
+
+- [Install nodeJs and npm](https://nodejs.org/en/download)
+- [Install MongoDB](https://www.mongodb.com/docs/manual/installation/)
+
+## Test Instruction
+
+To use this project:
+
+- Get a copy of this repo to your local machine.
+- Install the `Node Module`
+
+```
+npm install
+```
+
+- Type in the following to run the project:
+
+```
+npm run develop
+```
