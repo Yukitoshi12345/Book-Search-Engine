@@ -10,7 +10,7 @@
 - [Screenshot](#screenshot)
 - [Video](#video)
 - [Output](#output)
-- [Installation](#installation)
+- [Deployed Application](#deployed-application)
 - [License](#license)
 
 ## User Story
@@ -76,3 +76,14 @@ npm install
 ```
 npm run develop
 ```
+
+## Deployed Application
+
+The project was uploaded to [GitHub](https://github.com/) at the following repository:
+[https://github.com/yukitoshi12345/Book-Search-Engine/](https://github.com/yukitoshi12345/Book-Search-Engine)
+
+You can access the deployed application here: []()
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/Yukitoshi12345/Book-Search-Engine/blob/main/LICENSE).
