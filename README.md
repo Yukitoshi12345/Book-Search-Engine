@@ -1,5 +1,7 @@
 <h1 align = "center"> Book Search Engine </h1>
 
+This project focuses on creating an intuitive book search engine tailored for avid readers who are eager to discover new books and manage a list of potential purchases. The application offers a user-friendly interface that includes options for searching books, as well as functionalities for user authentication. Users can browse through extensive search results, displaying detailed information about each book, and have the ability to save their favorite finds for later review. The system supports account creation and login, allowing for a personalised and secure way to keep track of both past searches and saved books, ensuring a tailored browsing experience for every user.
+
 ## Table of Contents
 
 - [User Story](#user-story)
